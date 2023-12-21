@@ -1,0 +1,10 @@
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\bin\Debug\StudentsControlApp.exe.config
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\bin\Debug\StudentsControlApp.exe
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\bin\Debug\StudentsControlApp.pdb
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.csproj.AssemblyReference.cache
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.Form1.resources
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.Properties.Resources.resources
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.csproj.GenerateResource.cache
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.csproj.CoreCompileInputs.cache
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.exe
+C:\Users\Likite\Desktop\ders1\dotNet\StudentsControlApp\StudentsControlApp\obj\Debug\StudentsControlApp.pdb
